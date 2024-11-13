@@ -1,4 +1,5 @@
 In the volatile and fast-paced world of cryptocurrency, detecting anomalous or suspicious activity is crucial for maintaining security and trust in exchanges. This project leverages machine learning techniques to identify deviations from normal transaction behavior in Bitcoin data, enabling improved fraud detection mechanisms.
+In this project two deep learning models were used Autoencoder and GAN .
 
 Key Features
 
